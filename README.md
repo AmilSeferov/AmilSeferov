@@ -1,4 +1,4 @@
-
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHDapVq1KGETQ/profile-displaybackgroundimage-shrink_350_1400/B4EZV3I6N_HgAg-/0/1741460581020?e=1746662400&v=beta&t=7o0XP0090C-_EadjYaeLBTT3DxJzxqY4QQJYZ1gUv70)
 <h1 align="center" >Hi 👋, I'm Amil Seferov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 

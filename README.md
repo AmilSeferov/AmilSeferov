@@ -1,4 +1,4 @@
-[!MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fover-31-million-fake-stars-on-github-projects-used-to-boost-rankings%2F&psig=AOvVaw3onHK5DFkWeOgbZiZG8eaO&ust=1741546457718000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD1k6mU-4sDFQAAAAAdAAAAABAE)
+[!MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fover-31-million-fake-stars-on-github-projects-used-to-boost-rankings%2F&psig=AOvVaw3onHK5DFkWeOgbZiZG8eaO&ust=1741546457718000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD1k6mU-4sDFQAAAAAdAAAAABAE](https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg))
 <h1 align="center" >Hi 👋, I'm Amil Seferov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 

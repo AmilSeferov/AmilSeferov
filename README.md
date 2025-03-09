@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQE4fdvoPq6_NA/profile-displaybackgroundimage-shrink_350_1400/B4EZV7hTB5G0AY-/0/1741534082281?e=1747267200&v=beta&t=VmDkafN_Aeryeo9WkxBe9Fj4IGGTy-vKPTKFMBJfhUA)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQE89bQMfufF5g/profile-displaybackgroundimage-shrink_350_1400/B4EZV7vE_vHMAY-/0/1741537696271?e=1747267200&v=beta&t=GBlk_nUKwwc2vTp9xfNz4LWPEulB9zPQcADUKEx9GOA)
 <h1 align="center" >Hi 👋, I'm Amil Seferov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
